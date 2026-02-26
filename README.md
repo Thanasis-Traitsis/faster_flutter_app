@@ -88,7 +88,7 @@ class _AppLoaderState extends State<AppLoader> {
 ```
 The beauty of this approach is that your user never sees a white screen. They land on your splash screen almost instantly, and by the time they're done admiring your beautiful logo, the app is fully ready to go.
 
-[GIF BIG BRAIN]
+![Big Brain](https://github.com/Thanasis-Traitsis/faster_flutter_app/blob/main/big_brain.webp)
 
 ## 4. Use compute() for Heavy Work
 
