@@ -202,6 +202,8 @@ final settings = await compute(parseHeavyConfig, rawData);
 
 Your `main()` function should be lean, fast, and humble. It should do the minimum amount of work needed to get something on the screen, and then get out of the way.
 
+![Work Done](https://github.com/Thanasis-Traitsis/faster_flutter_app/blob/main/work_done.webp)
+
 ## Conclusion
 There you have it, my friends! Seven practical tips that can completely transform the way your app feels from the moment it launches. Let's do a quick recap of everything we covered:
 
